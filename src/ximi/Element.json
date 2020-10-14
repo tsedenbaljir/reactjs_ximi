@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "signal": "H",
+        "name": "Ус төрөгч",
+        "resister": "2.20",
+        "atom_radius": "0.37",
+        "valent": "1s1",
+        "atom_mass": "1.008",
+        "image": ""
+    },
+    {
+        "id": "2",
+        "signal": "He",
+        "name": "Гели",
+        "resister": "-",
+        "atom_radius": "0.32",
+        "valent": "2S2",
+        "atom_mass": "4.003",
+        "image": ""
+    },
+    {
+        "id": "3",
+        "signal": "Li",
+        "name": "Лити",
+        "resister": "0.98",
+        "atom_radius": "1.52",
+        "valent": "2s1",
+        "atom_mass": "6.941",
+        "image": ""
+    },
+    {
+        "id": "4",
+        "signal": "Be",
+        "name": "Берилли",
+        "resister": "1.11",
+        "atom_radius": "1.11",
+        "valent": "2s2",
+        "atom_mass": "9.012",
+        "image": ""
+    },
+    {
+        "id": "5",
+        "signal": "B",
+        "name": "Бор",
+        "resister": "2.04",
+        "atom_radius": "0.88",
+        "valent": "2s22p1",
+        "atom_mass": "10.811",
+        "image": ""
+    },
+    {
+        "id": "6",
+        "signal": "C",
+        "name": "Нүүрс төрөгч",
+        "resister": "2.55",
+        "atom_radius": "0.88",
+        "valent": "2s22p2",
+        "atom_mass": "12.011",
+        "image": ""
+    },
+    {
+        "id": "7",
+        "signal": "N",
+        "name": "Азот",
+        "resister": "3.04",
+        "atom_radius": "0.7",
+        "valent": "2s22p3",
+        "atom_mass": "14.007",
+        "image": ""
+    },
+    {
+        "id": "8",
+        "signal": "O",
+        "name": "Хүчил төрөгч",
+        "resister": "3.44",
+        "atom_radius": "0.66",
+        "valent": "2s22p4",
+        "atom_mass": "15.999",
+        "image": ""
+    },
+    {
+        "id": "9",
+        "signal": "F",
+        "name": "Фтор",
+        "resister": "3.98",
+        "atom_radius": "0.64",
+        "valent": "2s22p5",
+        "atom_mass": "18.998",
+        "image": ""
+    },
+    {
+        "id": "10",
+        "signal": "Ne",
+        "name": "Неон",
+        "resister": "-",
+        "atom_radius": "0.62",
+        "valent": "2s22p6",
+        "atom_mass": "20.179",
+        "image": ""
+    },
+    {
+        "id": "11",
+        "signal": "Na",
+        "name": "Натри",
+        "resister": "0.93",
+        "atom_radius": "0.77",
+        "valent": "3s1",
+        "atom_mass": "22.989",
+        "image": ""
+    },
+    {
+        "id": "12",
+        "signal": "Mg",
+        "name": "Магни",
+        "resister": "1.31",
+        "atom_radius": "1.6",
+        "valent": "3s2",
+        "atom_mass": "24.305",
+        "image": ""
+    },
+    {
+        "id": "13",
+        "signal": "Al",
+        "name": "Хөнгөн цагаан",
+        "resister": "1.61",
+        "atom_radius": "1.43",
+        "valent": "3s23p1",
+        "atom_mass": "26.981",
+        "image": ""
+    },
+    {
+        "id": "14",
+        "signal": "Si",
+        "name": "Цахиур",
+        "resister": "1.90",
+        "atom_radius": "1.17",
+        "valent": "3s23p2",
+        "atom_mass": "28.085",
+        "image": ""
+    },
+    {
+        "id": "15",
+        "signal": "P",
+        "name": "ФосФор",
+        "resister": "2.19",
+        "atom_radius": "1.1",
+        "valent": "3s23p3",
+        "atom_mass": "30.974",
+        "image": ""
+    },
+    {
+        "id": "16",
+        "signal": "S",
+        "name": "Хүхэр",
+        "resister": "2.58",
+        "atom_radius": "1.04",
+        "valent": "3s23p4",
+        "atom_mass": "32.065",
+        "image": ""
+    },
+    {
+        "id": "17",
+        "signal": "Cl",
+        "name": "Хлор",
+        "resister": "3.16",
+        "atom_radius": "0.99",
+        "valent": "3s23p5",
+        "atom_mass": "35.453",
+        "image": ""
+    },
+    {
+        "id": "18",
+        "signal": "Ar",
+        "name": "Аргон",
+        "resister": "-",
+        "atom_radius": "0.97",
+        "valent": "3s23p6",
+        "atom_mass": "39.948",
+        "image": ""
+    },
+    {
+        "id": "19",
+        "signal": "K",
+        "name": "Кали",
+        "resister": "0.82",
+        "atom_radius": "2.31",
+        "valent": "3s1",
+        "atom_mass": "39.098",
+        "image": ""
+    },
+    {
+        "id": "20",
+        "signal": "Ca",
+        "name": "Кальци",
+        "resister": "1.00",
+        "atom_radius": "1.97",
+        "valent": "4s2",
+        "atom_mass": "40.078",
+        "image": ""
+    },
+    {
+        "id": "21",
+        "signal": "Sc",
+        "name": "Сканди",
+        "resister": "1.36",
+        "atom_radius": "1.6",
+        "valent": "4s23d1",
+        "atom_mass": "44.956",
+        "image": ""
+    },
+    {
+        "id": "22",
+        "signal": "Ti",
+        "name": "Титан",
+        "resister": "1.54",
+        "atom_radius": "1.46",
+        "valent": "4s23d2",
+        "atom_mass": "47.867",
+        "image": ""
+    },
+    {
+        "id": "23",
+        "signal": "V",
+        "name": "Ванади",
+        "resister": "1.63",
+        "atom_radius": "1.31",
+        "valent": "4s23d3",
+        "atom_mass": "50.942",
+        "image": ""
+    },
+    {
+        "id": "24",
+        "signal": "Cr",
+        "name": "Хром",
+        "resister": "1.66",
+        "atom_radius": "1.25",
+        "valent": "4s13d5",
+        "atom_mass": "51.996",
+        "image": ""
+    }
+]

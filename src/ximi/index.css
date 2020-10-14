@@ -1,0 +1,98 @@
+.element div{
+    text-align: center;  
+} 
+ .body{
+    margin: 0 10px ; 
+ }
+button{
+    padding: 0px;
+
+}
+.urwal{
+    padding: 5px;
+}
+
+.element{ 
+    padding: 5px;
+}   
+
+.result{ 
+    padding: 5px;
+}
+.Tools{
+    margin-left: -200px;
+    border-color:red;
+    border-bottom: 10px;  
+    height: 250px;
+    margin-left:2px;
+    margin-bottom:15px; 
+    background-color: gray;
+    box-shadow: 0 0 0 2px; 
+}
+
+ 
+.bottles td{
+    width: 50px;
+    height: 90px;
+}
+.bottles img{
+    width: 50px;
+    height: 90px;
+}
+
+.Element_name{
+    float: left;
+}
+.Elements_order{
+    text-align: left;
+    font-style: oblique;
+    padding: 6px;
+}
+/*towchnii xuwiral*/
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .Element {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+  }
+  
+  .Element:hover {
+    background-color: #4CAF50;
+    color: white;
+  }  
+  .Calculator {
+    background-color: white; 
+    color: black; 
+    border: 2px solid rgb(193, 209, 48);
+  }
+  
+  .Calculator:hover {
+    background-color: rgb(226, 230, 31);
+    color: white;
+  }
+  
+  .Lab {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .Lab:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+/*the end*/

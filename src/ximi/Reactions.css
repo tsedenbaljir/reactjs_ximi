@@ -1,0 +1,43 @@
+.Rtools{
+    width: 20px;
+    height: 20px;
+}
+.Reactions{
+    border-color:red;
+    border-bottom: 10px; 
+    position: absolute;
+    width: 400px;
+    height: 300px; 
+    background-color: #67cc16;
+    box-shadow: 0 0 0 2px; 
+}
+.table{
+    margin-left: 560px;
+    height: 200px;
+    width: 600px;
+    border-radius: 20px;
+    transform: skew(-40deg);
+    background-color: rgb(147, 114, 82);
+    box-shadow: 10px 10px 0 2px; 
+
+}
+.talbeTools{
+    transform: skew(40deg);
+} 
+.Ширээ{
+    margin-left: 700px;
+    margin-top: -2px;
+    position: absolute;
+    font-size: 10px;
+    color: white;
+} 
+.xol{
+    background-color: black;
+    width: 20px;
+    height: 100px;
+    position: absolute;
+    margin-left: 500px
+}
+.xoid{
+    border-radius: 31px 0 0 0;
+}

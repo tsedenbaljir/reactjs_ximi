@@ -1,0 +1,23 @@
+.result{
+    text-align: center;
+    height: 220px;
+    background-color: #e6e6e6;
+    margin-bottom: 10px;
+    width: 669px;
+    position: absolute;
+    margin-left: 164px; 
+}
+.Cresult{
+    text-align: center;
+    height: 80%;
+    background-color: #e6e6e6;
+    margin-bottom: 10px;
+    width: 950px;
+    position: absolute;
+    margin-left: 164px; 
+    color:blue;
+}
+.element_result{
+    background-image: linear-gradient(to right, #00000080 , white);
+
+}
